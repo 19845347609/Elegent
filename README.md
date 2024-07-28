@@ -58,4 +58,8 @@ int main()
 echo "sb水印草泥马“
 ```
 
+##超链接
+[百度搜索](https://www.baidu.com "点击进入")
+
+
 
