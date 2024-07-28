@@ -43,3 +43,19 @@
 APEX|10086|FREE
 CSGO|1|98
 ~
+
+##代码
+```c
+#include<stdio.h>
+int main()
+{
+   pritnf("hello\n");
+   return 0;
+}
+```
+
+```hash
+echo "sb水印草泥马“
+```
+
+
