@@ -44,7 +44,8 @@ APEX|10086|FREE
 CSGO|1|98
 ~
 
-##代码
+## 代码
+
 ```c
 #include<stdio.h>
 int main()
@@ -54,12 +55,15 @@ int main()
 }
 ```
 
-```hash
+```bash
 echo "sb水印草泥马“
 ```
 
-##超链接
+## 超链接
+
 [百度搜索](https://www.baidu.com "点击进入")
 
 
+## 图片插入
 
+![桌面截图](C://Users//毛延//Desktop//xx.png "def")
